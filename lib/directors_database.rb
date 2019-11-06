@@ -7,4 +7,4 @@ def directors_database
 pp @_db
 end
 
-pp directors_db
+pp directors_database
